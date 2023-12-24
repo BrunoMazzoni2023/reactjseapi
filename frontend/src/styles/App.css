@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins', sans-serif;
+}
+
+
+ .App {
+     text-align: center;
+    background-color: #73bba2;
+    justify-content: center;
+
+
+  } 
+  .btnPrincipal {
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .btnSobre {
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .btnForm {
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+  .btnTarefa {
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 20px;
+  }
